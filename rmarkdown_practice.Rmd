@@ -49,3 +49,6 @@ By the end of the course, students will be able to:
 x <- 2 + 4
 x + 9
 ```
+
+The output of first line of code is not printed out because it is assigned to a variable instead.
+The second line of output is printed out instead, but this means that the calculated value has not been saved for future use.
